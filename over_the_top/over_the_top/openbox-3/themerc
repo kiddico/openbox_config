@@ -1,0 +1,71 @@
+window.handle.width: 0
+window.client.padding.width: 0
+window.client.padding.height: 0
+border.Width: 2
+padding.width: 6
+menu.overlap: 2
+border.color: #4e4e4e
+window.frameColor: #eeeeec
+window.*.client.color: #eeeeec
+*.text.justify: center
+
+!!Fonts
+
+window.active.label.text.font: shadow=y:shadowoffset=1:shadowtint=3
+window.inactive.label.text.font: shadow=y:shadowoffset=1:shadowtint=0
+menu.items.font:
+menu.title.text.font: shadow=y:shadowoffset=1:shadowtint=30
+
+!!Menu
+menu.border.color: #4e4e4e
+menu.title.bg: flat vertical
+menu.title.bg.color: #638694
+menu.title.text.color: #babdb6
+
+menu.items.bg: flat solid
+menu.items.bg.color: #638694
+
+menu.items.text.color: #444444
+menu.items.disabled.text.color: #000000
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #94E3CE
+menu.items.active.text.color: #4e4e4e
+menu.items.active.bg.border.color: #416c98
+
+!!Active
+
+window.active.title.bg: flat osx
+window.active.title.bg.color: #FF8AFF
+window.active.title.bg.border.color: #4e4e4e
+
+window.active.label.bg: parentrelative
+window.active.label.text.color: #475D63
+
+window.active.button.*.bg: parentrelative
+window.active.button.*.image.color: #FFCFFF
+window.active.button.hover.bg.color: #40B4BB
+window.active.button.hover.image.color: #40B4BB
+window.active.button.pressed.bg.color: #a7cef2
+window.active.button.disabled.image.color: #6d8fbc
+
+window.active.handle.bg: raised solid
+window.active.handle.bg.color: #E7e7e7
+window.*.grip.bg: parentrelative
+
+!!Inactive
+
+window.inactive.title.bg: flat  osx
+window.inactive.title.bg.color: #5AD7DE
+window.inactive.title.bg.border.color: #efefef
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #475D63
+
+window.inactive.button.*.bg: parentrelative
+window.inactive.button.*.image.color:  #ADFAFF
+window.inactive.button.pressed.bg.color: #d3d7cf
+window.inactive.button.pressed.bg.color: #4f5051
+window.inactive.button.disabled.image.color: #d0d0d0
+
+window.inactive.handle.bg: raised solid
+window.inactive.handle.bg.color: #E7e7e7
