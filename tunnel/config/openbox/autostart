@@ -1,0 +1,3 @@
+feh --bg-fill /home/nick/.config/openbox/cropped.jpg
+xset -b
+#xcompmgr -cCf -D 3 &
