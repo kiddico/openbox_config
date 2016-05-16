@@ -1,4 +1,4 @@
 feh --bg-fill /home/nick/.config/openbox/cropped.jpg
 tint2
 xset -b
-#xcompmgr -cCf -D 3 &
+xcompmgr -cCf -D 3 &
