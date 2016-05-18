@@ -92,8 +92,13 @@
     <hideDelay>300</hideDelay>
     <showDelay>300</showDelay>
     <moveButton>Middle</moveButton>
-  </dock>
-  <keyboard>
+</dock>
+	<keyboard>
+		<keybind key="W-Tab">
+			<action name="ShowMenu">
+				<menu>root-menu</menu>
+			</action>
+		</keybind>
     <chainQuitKey>C-g</chainQuitKey>
     <keybind key="C-A-Left">
       <action name="GoToDesktop">
