@@ -6,3 +6,6 @@ I learned how to rice openbox while I should have either been writing an essay, 
 Have fun. Uhh, sharing is caring, and thus this is free to share, but only with care.
 
 (Also along with an exact copy of the license file. Also if you make any changes send them back, or whatever; I don't github much. I'll figure it out if I get a notification)
+
+
+![Please don't vape (or wave) near me.](https://i.imgur.com/KduY8zD.png)
